@@ -72,12 +72,13 @@ I want to be a Front-end Developer.
 ***
 
 <p align="center">
-<br> [ Unity + Arduino : GAME ] <br><br>
+<br> [ Unity + Arduino : 3D GAME ] <br><br>
 <img src="https://img.shields.io/badge/UNITY-000000?style=flat-square&logo=UNITY&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/></a>
 <br>
 </p>
 
+* 방향키는 아두이노 사용
 * 정지해있거나 쫓아오는 몬스터를 피해 목적지에 도착하기
 * 처음 시작 점수 1000점
 * Damage 1번당 -100점
