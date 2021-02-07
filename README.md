@@ -42,7 +42,7 @@ I want to be a Front-end Developer.
 
 <p align="center">
 [ Capstone Design - Video Captioning ] <br><br>
-<img src="https://img.shields.io/badge/코드 & 설명-000000?style=flat-square&logoColor=white"/></a> &nbsp&nbsp&nbsp&nbsp
+<img src="https://img.shields.io/badge/코드 & 설명-000000?style=flat-square&logoColor=white"/></a> &nbsp
 <a href src="https://github.com/Hyeon1445/Capstone_Design_2020">https://github.com/Hyeon1445/Capstone_Design_2020</a>
 <br> <img src="https://img.shields.io/badge/발표 & 시연-000000?style=flat-square&logoColor=white"/></a> &nbsp&nbsp
 <a href src="https://www.youtube.com/watch?v=URbBxMFpzMo">https://www.youtube.com/watch?v=URbBxMFpzMo</a>
