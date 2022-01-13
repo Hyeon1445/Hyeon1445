@@ -8,6 +8,8 @@ I'm Hyeonji Lee and I'm working as a Frontend Developer
 ### 🌱 Activities
 - [2017] 교내 제4회 SW경시대회(세종코딩챌린지위크) 5등
 - [2018] 제5회 세종대학교 SW 경시대회 5등
+- [2019] EPITA 교환학생, l'école des ingénieurs en intelligence informatique. 
+<br> (School of Engineering & Computer Science, France)
 - [2020] 제10회 세종대학교 창의설계경진대회 최우수상(1위) - Capstone Design
 
 ### 🎓 Graduation
