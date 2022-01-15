@@ -1,9 +1,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hyeonji%20Lee&fontSize=50" />
 
 ### 👋 Hi there
-I'm Hyeonji Lee and I'm working as a Frontend Developer
+I'm Hyeonji Lee and I'm working as a Frontend Developer.
+<br> And I'm interested in...
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=Vue.js&logoColor=white">
+<img src="https://img.shields.io/badge/Three.js-000000?logo=Three.js&logoColor=white">
 
-### ⚡ Skills
+<!-- ### ⚡ I'm Interested in... -->
+
 
 ### 🌱 Activities
 - [2017] 교내 제4회 SW경시대회(세종코딩챌린지위크) 5등
